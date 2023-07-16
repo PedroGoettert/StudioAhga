@@ -1,34 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Studio Ahga - Portfólio de Projetos de Arquitetura
 
-## Getting Started
+Bem-vindo ao Studio Ahga! Este é o repositório do nosso site de portfólio, onde você pode encontrar projetos incríveis de arquitetura criados por nós. Nossa missão é projetar espaços funcionais, inspiradores e esteticamente agradáveis que atendam às necessidades de nossos clientes. Aqui, você também encontrará informações sobre nossa empresa e como entrar em contato conosco.
 
-First, run the development server:
+<!-- ![Logo do Studio Ahga](link_para_logo.jpg) -->
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Tecnologias Utilizadas
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- ReactJS
+- Next.js
+- CSS
+- TypeScript
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Acesso ao Projeto Online
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Você pode acessar o Studio Ahga e navegar pelo nosso portfólio online através do seguinte link: [www.studioahga.com](http://www.studioahga.com)
 
-## Learn More
+## Como Utilizar o Projeto
 
-To learn more about Next.js, take a look at the following resources:
+1. **Visualização dos Projetos:** Ao acessar nosso site, você poderá navegar por diferentes projetos de arquitetura. Cada projeto contará com imagens e informações relevantes para conhecer melhor os detalhes do trabalho realizado.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. **Conheça o Studio Ahga:** Na página "Sobre Nós", você encontrará informações detalhadas sobre nossa empresa, nossa filosofia de design e nossa equipe de profissionais dedicados.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3. **Entre em Contato:** Caso tenha interesse em nossos serviços ou deseje mais informações sobre algum projeto específico, você pode entrar em contato conosco através do formulário disponível na página "Contato" do nosso site.
 
-## Deploy on Vercel
+## Como Executar o Projeto Localmente
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Para executar este projeto localmente em sua máquina, siga as etapas abaixo:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Certifique-se de ter o Node.js instalado em seu sistema.
+
+2. Clone este repositório para o seu computador usando o seguinte comando:
+
+3. Navegue até o diretório do projeto:
+
+4. Instale as dependências do projeto:
+
+5. Execute o projeto em modo de desenvolvimento:
+
+6. O servidor de desenvolvimento será iniciado e você poderá acessar o site em `http://localhost:3000`.
+
+## Contribuindo
+
+Agradecemos o seu interesse em contribuir com o Studio Ahga! Se você deseja fazer alguma contribuição, sinta-se à vontade para abrir um "Pull Request" com as suas alterações. Analisaremos cuidadosamente todas as contribuições.
+
+
+Obrigado por visitar o Studio Ahga e conhecer nossos projetos de arquitetura!
+

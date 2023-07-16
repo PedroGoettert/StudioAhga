@@ -1,0 +1,22 @@
+.container{
+display: flex;
+flex-direction: column;
+height: 60vh;
+padding: 0 100px;
+justify-content: center;
+align-items: center ;
+}
+
+.content{
+  display: flex;
+  min-height: 100%;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 6rem;
+}
+
+.content p{
+  text-indent: 30px;
+  font-size: 1.15rem;
+  margin-left: 3rem;
+}

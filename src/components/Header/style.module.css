@@ -1,0 +1,41 @@
+.header{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav ul {
+  margin-top: 10px;
+
+  display: flex;
+  gap: 2rem;
+
+  list-style: none;
+  margin-bottom: 20px;
+}
+
+.nav ul li:hover{
+  margin-bottom: -1px;
+}
+
+.nav ul li a{
+  text-decoration: none;
+  color: black;
+  padding-bottom: 1px;
+  border-bottom: 1px solid black;
+}
+
+.nav ul li a:hover{
+  font-size: 1.05rem;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+}
+
+
+
+
+
+
+
