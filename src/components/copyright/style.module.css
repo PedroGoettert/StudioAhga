@@ -1,0 +1,25 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  align-items: center;
+  gap: 2rem;
+  min-height: 3rem;
+  background-color: #010100;
+  color: #FFF;
+}
+
+.container p {
+  font-size: 0.75rem;
+}
+
+.content{
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.logos{
+  display: flex;
+  gap: 2rem;
+}
