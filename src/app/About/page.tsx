@@ -6,7 +6,8 @@ import { Underline } from '@/components/Underline'
 export default function About() {
   return (
     <div className={style.container}>
-      <div>
+      <h1 className={style.h1}>Sobre mim</h1>
+      <div style={{ marginBottom: '2rem' }}>
         <div className={style.content}>
           <Image src={ImgProfile} alt="Profile Image" height={250}></Image>
 
@@ -29,7 +30,7 @@ export default function About() {
           </div>
         </div>
       </div>
-      <Underline size="50vw" />
+      <Underline size="55vw" />
     </div>
   )
 }
