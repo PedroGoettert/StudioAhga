@@ -8,8 +8,12 @@ export default function Copyright() {
         <p>2023 Henrique de Souza Goettert. Todos os Direitos Reservados</p>
       </div>
       <div className={style.logos}>
-        <InstagramIcon size={18} />
-        <YoutubeIcon size={18} />
+        <a href="https://www.instagram.com/studioahga/">
+          <InstagramIcon size={18} />
+        </a>
+        <a href="https://www.youtube.com/">
+          <YoutubeIcon size={18} />
+        </a>
       </div>
     </footer>
   )

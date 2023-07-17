@@ -21,5 +21,10 @@
 
 .logos{
   display: flex;
-  gap: 2rem;
+  gap: 1.5rem;
+}
+
+.logos a {
+  color: #FFF;
+  font-style: none;
 }
