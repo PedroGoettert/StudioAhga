@@ -1,17 +1,26 @@
 .container{
   max-width: 800px;
-  /* max-height: 600px; */
+  background-color: #000;
+  position: relative;
+}
+
+.container:hover a div p{
+  display: block;
 }
 
 .title {
-  position: relative;
+  position: absolute;
   top: 50%;
-  bottom: 50%;
+  right: 0;
+  left: 0;
+  transform: translate(0, -50%);
 
+  color: #FFF;
   font-weight: bold;
   font-size: 1.8rem;
 
   text-align: center;
+  display: none;
 }
 
 .image{

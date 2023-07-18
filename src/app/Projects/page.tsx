@@ -9,13 +9,6 @@ export default function Projects() {
       <div className={style.content}>
         <Project title="Projeto 1" image={projectImg1} link="#" />
         <Project title="Projeto 2" image={projectImg1} link="#" />
-        <Project title="Projeto 3" image={projectImg1} link="#" />
-        <Project title="Projeto 4" image={projectImg1} link="#" />
-        <Project title="Projeto 5" image={projectImg1} link="#" />
-        <Project title="Projeto 6" image={projectImg1} link="#" />
-        <Project title="Projeto 7" image={projectImg1} link="#" />
-        <Project title="Projeto 8" image={projectImg1} link="#" />
-        <Project title="Projeto 9" image={projectImg1} link="#" />
       </div>
 
       <div style={{ marginBottom: 20 }}>

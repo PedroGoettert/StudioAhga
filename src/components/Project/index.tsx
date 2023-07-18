@@ -10,10 +10,12 @@ interface ProjectProps {
 export function Project({ title, image, link }: ProjectProps) {
   return (
     <div className={style.container}>
-      <p className={style.title}>{title}</p>
-      <div>
-        <Image src={image} alt="foto Projetos" className={style.image} />
-      </div>
+      <a href={link}>
+        <div>
+          <p className={style.title}>{title}</p>
+          <Image src={image} alt="foto Projetos" className={style.image} />
+        </div>
+      </a>
     </div>
   )
 }
