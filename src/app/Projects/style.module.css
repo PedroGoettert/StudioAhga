@@ -1,14 +1,19 @@
 .container{
   width: 100%;
+  
   display: flex;
   flex-direction: column;
   flex: 1;
-  justify-content: center;
+  margin-top: 2rem;
   align-items: center;
+  
   gap: 0.5rem;
-
-
   padding: 0 200px;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 2rem;
 }
 
 .content{
