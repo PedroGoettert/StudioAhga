@@ -1,3 +1,5 @@
+import { Underline } from '@/components/Underline'
+
 import { Phone, Mail } from 'lucide-react'
 import style from './style.module.css'
 import WhatsLogo from '../../assets/svg/WhatsLogo'
@@ -29,6 +31,7 @@ export default function Contacts() {
           </a>
         </div>
       </div>
+      <Underline size="55vw" />
     </div>
   )
 }
