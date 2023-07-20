@@ -2,6 +2,7 @@ import style from './style.module.css'
 
 import project1 from '../Images/Projeto.png'
 import Image from 'next/image'
+import { Underline } from '../components/Underline'
 
 export default function Home() {
   return (
@@ -21,6 +22,10 @@ export default function Home() {
           <Image src={project1} alt="" height={300} />
         </div>
       </section>
+
+      <div style={{ marginBottom: 20 }}>
+        <Underline size="55vw" />
+      </div>
     </main>
   )
 }
