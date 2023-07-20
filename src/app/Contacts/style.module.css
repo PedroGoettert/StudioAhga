@@ -11,6 +11,7 @@
   display: flex;
   margin-top: 5rem;
   gap: 6rem;
+  margin-bottom: 2rem;
 }
 .title{
   font-size: 2rem;
