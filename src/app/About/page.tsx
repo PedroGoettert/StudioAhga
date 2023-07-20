@@ -7,7 +7,7 @@ export default function About() {
   return (
     <div className={style.container}>
       <h1 className={style.title}>Sobre mim</h1>
-      <div style={{ marginBottom: '2rem' }}>
+      <div>
         <div className={style.content}>
           <Image src={ImgProfile} alt="Profile Image" height={250}></Image>
 
