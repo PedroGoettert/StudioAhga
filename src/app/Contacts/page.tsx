@@ -25,7 +25,7 @@ export default function Contacts() {
           <strong>Quer um projeto?</strong>
           <p>Aperte no botão abaixo e vamos conversar sobre!</p>
 
-          <a href={link} className={style.WhatButton}>
+          <a href={link} className={style.WhatsButton}>
             <WhatsLogo />
             <p>Mandar Mensagem</p>
           </a>

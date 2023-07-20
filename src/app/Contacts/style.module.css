@@ -45,7 +45,7 @@
   font-size: 1.1rem;
 }
 
-.WhatButton{
+.WhatsButton{
   margin-top: 0.5rem;
   display: flex;
   justify-content: center;
@@ -60,4 +60,8 @@
 
   color: #000;
   text-decoration: none;
+}
+
+.WhatsButton:hover{
+  background-color: #f9f9f9;
 }
