@@ -1,8 +1,8 @@
+'use client'
 import style from './style.module.css'
 
-import project1 from '../Images/Projeto.png'
-import Image from 'next/image'
 import { Underline } from '../components/Underline'
+import { ShowImage } from '@/components/ShowImage'
 
 export default function Home() {
   return (
@@ -17,9 +17,7 @@ export default function Home() {
         </p>
 
         <div className={style.images}>
-          <Image src={project1} alt="" height={300} />
-          <Image src={project1} alt="" height={300} />
-          <Image src={project1} alt="" height={300} />
+          <ShowImage />
         </div>
       </section>
 

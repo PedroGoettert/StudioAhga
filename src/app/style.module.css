@@ -22,12 +22,6 @@
 }
 
 .images{
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-
-  gap: 2rem;
-}
-
-.images Image{
-  max-width: 300px
+display: flex;
+justify-content: center;
 }
