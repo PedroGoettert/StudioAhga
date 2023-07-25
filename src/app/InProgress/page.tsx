@@ -15,7 +15,7 @@ const projetos = [
 export default function Projects() {
   return (
     <div className={style.container}>
-      <h1 className={style.title}>Projetos</h1>
+      <h1 className={style.title}>Em Andamento</h1>
       <div className={style.content}>
         {projetos.map((projeto) => (
           <Project
